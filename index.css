@@ -423,7 +423,14 @@ header .navbar ul li a:hover {
     font-size: 2.2rem;
   }
 }
-
+@media (max-width: 390px) {
+  .home{
+    margin-top: 2rem;
+  }
+  .home .image img {
+    margin-top: -2rem;
+}
+}
 /* hero media queries ends*/
 /* hero section end */
 
