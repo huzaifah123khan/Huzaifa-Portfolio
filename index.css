@@ -425,7 +425,7 @@ header .navbar ul li a:hover {
 }
 @media (max-width: 390px) {
   .home{
-    margin-top: 2rem;
+    margin-top: 3rem;
   }
   .home .image img {
     margin-top: -2rem;
